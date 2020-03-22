@@ -14,11 +14,4 @@ Usted debe mandar al menos tres pull request: El primero con el setup del proyec
 
 Para generar la autenticación debe tener un CLIENT_ID y un CLIENT_SECRET. Para esto, recuerde estar registrado en Spotify e ir al dashboard de https://developer.spotify.com/.  
 
-## Colaboradores  
-
-leonleo997  
-renardete  
-holgiosalos  
-valeryibarra
-
 Además, es muy importante que usted aplique **las mejores prácticas** a la hora de desarrollar el challenge  :D
